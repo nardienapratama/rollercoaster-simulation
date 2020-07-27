@@ -35,6 +35,6 @@ The project was created using Blender (version 2.8), a free and open-source 3D c
 ## User Controls
 The user controls are:
 
-- > C – switch cameras
-- Spacebar – hold key to stop rollercoaster car from moving (intended to let the user see whether the shader properties applied work, such as grass moving and water motions)
-- Ctrl + move mouse – lets the user pan the camera when in 1st person POV camera mode
+- **'c'**: press to switch cameras
+- **'spacebar'**: hold to stop rollercoaster car from moving (intended to let the user see whether the shader properties applied work, such as grass moving and water motions)
+- **'Ctrl' + mouse movement**: lets the user pan the camera when in 1st person POV camera mode
