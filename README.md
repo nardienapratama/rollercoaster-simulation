@@ -41,4 +41,4 @@ The user controls are:
 
 ## Snippets from the Simulation
 
-![1st POV](/Screenshots/Camera 1st POV.png)
+![1st POV](Screenshots/Camera 1st POV.png)
