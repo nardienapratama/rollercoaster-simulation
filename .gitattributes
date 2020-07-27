@@ -1,0 +1,14 @@
+*.psd filter=lfs diff=lfs merge=lfs -text
+Rollercoaster Simulation Project/Library/ArtifactDB
+Rollercoaster Simulation Project/Library/Artifacts/28/28ba37eca67045811f47c956b9b15575
+File Rollercoaster Simulation Project/Library/Artifacts/34/3423a2ac218efad8550e1d4b7c65d9bf
+Rollercoaster Simulation Project/Library/Artifacts/d5/d5aad78b83020ee8d0e8ddc832739a0d
+Rollercoaster Simulation Project/Library/Artifacts/d9/d9fb09a52e840e68039a4ca2a78a9336
+Rollercoaster Simulation Project/Assets/The Smiler Roller Coaster Car (2).fbx
+Rollercoaster[[:space:]]Simulation[[:space:]]Project/Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
+Rollercoaster[[:space:]]Simulation[[:space:]]Project/Library/Artifacts/28/28ba37eca67045811f47c956b9b15575 filter=lfs diff=lfs merge=lfs -text
+File[[:space:]]Rollercoaster[[:space:]]Simulation[[:space:]]Project/Library/Artifacts/34/3423a2ac218efad8550e1d4b7c65d9bf filter=lfs diff=lfs merge=lfs -text
+Rollercoaster[[:space:]]Simulation[[:space:]]Project/Library/Artifacts/34/3423a2ac218efad8550e1d4b7c65d9bf filter=lfs diff=lfs merge=lfs -text
+Rollercoaster[[:space:]]Simulation[[:space:]]Project/Library/Artifacts/d5/d5aad78b83020ee8d0e8ddc832739a0d filter=lfs diff=lfs merge=lfs -text
+Rollercoaster[[:space:]]Simulation[[:space:]]Project/Library/Artifacts/d9/d9fb09a52e840e68039a4ca2a78a9336 filter=lfs diff=lfs merge=lfs -text
+Rollercoaster[[:space:]]Simulation[[:space:]]Project/Assets/The[[:space:]]Smiler[[:space:]]Roller[[:space:]]Coaster[[:space:]]Car[[:space:]](2).fbx filter=lfs diff=lfs merge=lfs -text
