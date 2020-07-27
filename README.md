@@ -38,3 +38,7 @@ The user controls are:
 - **'c'**: press to switch cameras
 - **'spacebar'**: hold to stop rollercoaster car from moving (intended to let the user see whether the shader properties applied work, such as grass moving and water motions)
 - **'Ctrl' + mouse movement**: lets the user pan the camera when in 1st person POV camera mode
+
+## Snippets from the Simulation
+
+![1st POV](/Screenshots/Camera 1st POV.png)
