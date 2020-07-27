@@ -41,4 +41,8 @@ The user controls are:
 
 ## Snippets from the Simulation
 
+1st POV from primary camera:
 ![1st POV](Screenshots/Camera-1st-POV.png)
+
+3rd POV from secondary camera:
+![1st POV](Screenshots/Camera-3rd-POV.png)
