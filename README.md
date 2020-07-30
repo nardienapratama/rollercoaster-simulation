@@ -46,3 +46,8 @@ The user controls are:
 
 3rd POV from secondary camera:
 ![1st POV](Screenshots/Camera-3rd-POV.png)
+
+Tracks' texturing:
+![1st POV](Screenshots/Tracks-Texture.png)
+
+
