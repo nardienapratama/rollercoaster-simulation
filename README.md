@@ -1,5 +1,5 @@
 # rollercoaster-simulation
-A rollercoaster simulation game created using Unity as part of my attempt to dive in the world of computer graphics. The scripts were made in C# and the assets used were downloaded online. The simulation has camera controls – ability to view in 1st and 3rd person Point-of-View, pan camera – and movement controls – ability for car to stop.
+A rollercoaster simulation game created using Unity as part of my attempt to dive in the world of computer graphics. The scripts were made in C# and the assets used were downloaded online. The simulation has camera controls – ability to view in 1st and 3rd person Point-of-View, pan camera – and movement controls: ability for car to stop and move.
 
 ## Purpose 
 The aim of this project is to create a rollercoaster simulation. The simulation is meant to mimic a Virtual Reality rollercoaster simulation where the user experiences what it is like to ride on an actual rollercoaster. The simulation will not cover the entire rollercoaster track path, but only a small section of it.
