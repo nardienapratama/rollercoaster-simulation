@@ -61,6 +61,6 @@ Tracks' texturing:
 [Youtube Video](https://youtu.be/Hsr3Y1bxYaM)
 
 <figure class="video_container">
-  <iframe src="https://youtu.be/Hsr3Y1bxYaM" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/Hsr3Y1bxYaM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
