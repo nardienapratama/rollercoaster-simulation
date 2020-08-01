@@ -59,6 +59,8 @@ Tracks' texturing:
 
 ## Simulation Demo Video
 [Youtube Video](https://youtu.be/Hsr3Y1bxYaM)
+
 <figure class="video_container">
   <iframe src="https://youtu.be/Hsr3Y1bxYaM" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
+
