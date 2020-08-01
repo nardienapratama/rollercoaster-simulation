@@ -58,4 +58,4 @@ Tracks' texturing:
 ![1st POV](Screenshots/Tracks-Texture.png)
 
 ## Simulation Demo Video
-[Youtube Video](#https://youtu.be/Hsr3Y1bxYaM)
+[Youtube Video](https://youtu.be/Hsr3Y1bxYaM)
