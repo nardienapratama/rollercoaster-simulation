@@ -9,7 +9,7 @@ A rollercoaster simulation game created using Unity as part of my attempt to div
 6. [Snippets from the Simulation](#snippets-from-the-simulation)
 
 ## Simulation Demo Video
-Click [here](https://www.youtube.com/watch?v=Hsr3Y1bxYaM) to watch a demo video of this project!
+Click [here](https://youtu.be/ClpeL52k9Sk) to watch a demo video of this project!
 
 ## Purpose 
 The aim of this project is to create a rollercoaster simulation. The simulation is meant to mimic a Virtual Reality rollercoaster simulation where the user experiences what it is like to ride on an actual rollercoaster. The simulation **will not cover the entire rollercoaster track path, but only a small section of it**.
