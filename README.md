@@ -36,9 +36,9 @@ This simulation may be useful for people who, in real life, cannot ride rollerco
 The project was created using Blender (version 2.8), a free and open-source 3D computer graphics software, as well as Unity (version 2019.3), a real-time development platform that allows users to create games, simulations, visualizations, etc.
 
 ## External Assets
-- Standard Assets Package – for building terrain and adding terrain props
-- Example Assets Package – for some of the material textures
-- Path Creator Package – for creating paths for the rollercoaster car and cameras
+- Standard Assets Package – for building terrain and adding terrain props, from the Unity Asset Store
+- Example Assets Package – for some of the material textures, from the Unity Asset Store
+- Path Creator Package – for creating paths for the rollercoaster car and cameras, from the Unity Asset Store
 - Rollercoaster Car Blend File – from https://www.blendswap.com/blend/18587
 - Rollercoaster Track – the starting point used to make the entire track model, downloaded from https://www.blendswap.com/blend/9537
 
